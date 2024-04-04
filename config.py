@@ -20,7 +20,7 @@ BOT_TOKEN = getenv("BOT_TOKEN", "6674916212:AAFR7m4fB5Z98YxMh7pVNKf12v21rZBs4Y0"
 OPENAI_API_KEY = getenv("OPENAI_API_KEY", "")
 CHANNEL = getenv("CHANNEL", "MusicStreamMp3")
 CMD_HANDLER = getenv("CMD_HANDLER", ".")
-DB_URL = getenv("DATABASE_URL", "mongodb+srv://Xyxx:Helmi4636@cluster0.9yy5ve9.mongodb.net/?retryWrites=true&w=majority")
+DB_URL = getenv("DATABASE_URL", "postgres://igzvmvzd:4G6i3O51PB9ZBSO0RcArUlcBBoWMv-es@bubble.db.elephantsql.com/igzvmvzd")
 GIT_TOKEN = getenv("GIT_TOKEN", "")
 GROUP = getenv("GROUP", "MusicStreamSupport")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
