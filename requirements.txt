@@ -37,7 +37,7 @@ urllib3
 uvloop
 wget==3.2
 youtube-search-python
-yt-dlp==2024.03.10
+yt-dlp==2024.7.1
 httpx[http2]
 openai
 flask
